@@ -21,7 +21,7 @@ function Header() {
       <nav className="nav container">
         <Link to="/" className="nav-logo">
           <Store size={24} />
-          <span>ShopStore</span>
+          <span>ShoppingSite</span>
         </Link>
         <div className="nav-links">
           <Link to="/cart" className="nav-link">

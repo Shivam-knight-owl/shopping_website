@@ -40,7 +40,7 @@ function Login() {
 
   return (
     <div className="login-container">
-      <h1 className="login-title">Login to ShopStore</h1>
+      <h1 className="login-title">Login to ShoppingSite</h1>
 
       <p style={{ marginBottom: '1rem', color: '#444', fontStyle: 'italic' }}>
         This is a demo login. Only the following credentials will work:
